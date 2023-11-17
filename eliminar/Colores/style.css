@@ -1,0 +1,25 @@
+#ej1 p:nth-child(1) {
+    font-size: 1.5em;
+}
+
+#ej1 p:nth-child(2) {
+    font-size: 1.2em;
+}
+
+
+#ej1 p:nth-child(3) {
+    font-size: 0.8em;
+}
+
+#ej2-1 {
+    width: 20rem;
+}
+
+#ej2-2 {
+    width: 15rem;
+}
+
+#ej2-3 {
+    width: 10rem;
+}
+
